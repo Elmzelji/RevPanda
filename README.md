@@ -28,3 +28,10 @@ Author must be able to answer questions about functions and structure of the pro
 1. Clone the project to your local server
 2. Change Credentials on config.php with MySQL Credentials
 3. Change baseURL variable on index.html to the localhost URL of your machine
+
+## File Structure:
+- ajax.php | Ajax handler for runing all requests
+- config.php | This file where all credntials of the MySql DB beign stored
+- db.php | This file is where we have all methods we use for connecting and querying the database
+- index.html | This file where all the UI and interactions gets served
+- revpanda.sql | This is a mysql DB dump for my local Database
