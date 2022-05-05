@@ -1,9 +1,9 @@
 <?php
 //App Infos
-define('baseURL', 'http://localhost/');
-define('port', '10178');
+define('BASE_URL', 'http://localhost/');
+define('PORT', '10178');
 //Database Credentials
-define('dbUsername', 'root');
-define('dbPassword', 'root');
-define('dbHost', 'localhost');
-define('dbName', 'revpanda');
+define('DB_USERNAME', 'root');
+define('DB_PASSWORD', 'root');
+define('DB_HOST', 'localhost');
+define('DB_NAME', 'revpanda');
